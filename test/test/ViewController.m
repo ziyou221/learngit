@@ -22,5 +22,9 @@
     
     
 }
+-(void) fixBug
+{
+    NSLog(@"fix some bug");
+}
 
 @end
